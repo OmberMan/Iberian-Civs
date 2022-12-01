@@ -7,34 +7,32 @@
 		"startBias": ["Avoid Tundra", "Hills"],
 		"preferredVictoryType":"Cultural",																//Scientific, Cultural, Domination
 		
-		//Start of fluff things
 		"startIntroPart1": ".",																				//Change . into anything (or not, it's not crucial)
 		"startIntroPart2": ".",
 
 		"declaringWar": "Suprise motherfucker.",
 		"attacked": "Worms in breastplates, I knew you were scum.",
-		"defeated": "You may have defeated me, but it'll take a century to claim victory over the Lusitani.",
-		"introduction": "Welcome to the plains of Asphodel motherfucker.",
+		"defeated": "You may have defeated me, but you won't live to claim victory over the Lusitani.",
+		"introduction": "Welcome to the plains of Asphodel motherfucker. I am Viriathus, and you better not be Romans.",
 
 		"neutralHello": "Hmn? What's the good news?.",
 		"neutralLetsHearIt": ".",
 		"neutralNo": ".",
 		"neutralYes": ".",
 
-		"hateHello": "Not interested.",
+		"hateHello": "I should kill you where you stand.",
 		"hateLetsHearIt": ".",
 		"hateNo": ".",
 		"hateYes": ".",
 		
 		"afterPeace": ".",
-		"tradeRequest": "I'll throw in a beautiful basalt carving just for today.",
-		//End of fluff things
+		"tradeRequest": "I'll throw in a rock if you promise not to come back.",
 		
-		"outerColor": [246, 133, 7],																			//Change into your desired color
+		"outerColor": [246, 133, 7],																			
 		"innerColor": [255,210,51],																				
-		"favoredReligion": ".",																				//Change into religion name, or just comment it out using //
-		"uniqueName": ".",																					//Change . into any name
-		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory<while the empire is happy>", "[+50]% to Flank Attack bonuses<when fighting in [Friendly Land] tiles>", "[1] additional attacks per turn<when fighting units from a Civilization with more Cities than you><when fighting in [Friendly Land] tiles>"],							//If you want to add more, make sure to follow the rules ("x", "y", "z", "and so on")
+		"favoredReligion": ".",																				
+		"uniqueName": ".",																					
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory<while the empire is happy>", "[+50]% to Flank Attack bonuses<when fighting in [Friendly Land] tiles>", "[1] additional attacks per turn<when fighting units from a Civilization with more Cities than you><when fighting in [Friendly Land] tiles>"],							
 		"cities": ["Emerita Augusta", "Scalabis Iulia", "Pax Iulia", "Felicitas Iulia Olisipo"],
     },
 	 
@@ -46,28 +44,26 @@
 		"startBias": ["Coast", "Avoid Snow"],
 		"preferredVictoryType":"Scientific",																
 		
-		//Start of fluff things
 		"startIntroPart1": ".",																				
 		"startIntroPart2": ".",
 
 		"declaringWar": "It's just not working, see?",
-		"attacked": "Oh no, oh crap.",
-		"defeated": "Our culture... outlived... by the fucking Turdetani...",
+		"attacked": "Oh no oh shit.",
+		"defeated": "Our culture... outlived... by the... fucking Turdetani...",
 		"introduction": ".",
 
-		"neutralHello": "Hey.",
+		"neutralHello": "Hello, come from very far?",
 		"neutralLetsHearIt": ".",
 		"neutralNo": ".",
 		"neutralYes": ".",
 
-		"hateHello": "Mhhnn?",
+		"hateHello": "Mhnn?",
 		"hateLetsHearIt": ".",
 		"hateNo": ".",
 		"hateYes": ".",
 		
 		"afterPeace": ".",
-		"tradeRequest": "We've got the best stuff.",
-		//End of fluff things
+		"tradeRequest": "We've got the nicest stuff, possibly Atlantean, whose to say.",
 		
 		"outerColor": [236, 233, 111],																			
 		"innerColor": [87,235,230],																				
@@ -78,5 +74,4 @@
     },
 	
 	
-	//And so on and so forth, as long as it's inside this ] bracket below
 ]
