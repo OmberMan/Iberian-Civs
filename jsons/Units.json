@@ -5,20 +5,36 @@
 		"replaces": "Composite Bowman",
 		"movement": 3,
 		"strength": 8,
-    "rangedStrength": 13,
+    		"rangedStrength": 13,
 		"cost": 75,
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Gatling Gun",
 		"uniqueTo": "Lusitania",
-		"uniques": ["Can move after attacking", "[+33]% Strength <vs [Siege] units>", "Destroys tile improvements when attacking", "Invisible to non-adjacent units", "May withdraw before melee ([66]%)", "[1] Range"], 
+		"uniques": ["Can move after attacking", "[+33]% Strength <vs [Siege] units>", "Invisible to non-adjacent units", "May withdraw before melee ([66]%)", "[1] Range"], 
 		"promotions": ["Ignore terrain cost", "Drill I"],
 		"civilopediaText": [
 			{
-				"text": "Men mounted on horse, the skilled Gauchos from the Northern river plains were masters at the livestock work, who were the cogs behind the important livestock economy. Good warriors as well, fighting for independence and conquering the Patagonia for Argentina."
+				"text": "tbh you're better off without catapults anyways."
 			}
 		],
-		"attackSound": "horse",
+		"attackSound": "throw",
    },
-  ]
+ 
+  {
+		"name": "Sling Flinger",
+		"unitType": "Archer",
+		"replaces": "Composite Bowman",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 12,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Gunpowder",
+	  	"upgradesTo": "Gatling Gun",
+                "uniques": ["May withdraw before melee ([40]%)", "[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+20]% Strength <vs cities> <when attacking>", "Destroys tile improvements when attacking"],
+		"uniqueTo": "Tartessos",
+		"attackSound": "nonmetalhit",
+	},
+]
