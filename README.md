@@ -1,2 +1,2 @@
 # Iberian-Civs
-I fucking ha
+Tartessos and Lusitani atm aint that cool hot shit
