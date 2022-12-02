@@ -12,7 +12,7 @@
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"uniqueTo": "Lusitania",
-		"uniques": ["Can move after attacking", "[+33]% Strength <vs [Siege] units>", "Invisible to non-adjacent units", "May withdraw before melee ([66]%)", "[-1] Range"], 
+		"uniques": ["Can move after attacking", "[+33]% Strength <vs [Siege] units>", "Invisible to non-adjacent units", "Ignores Zone of Control", "May withdraw before melee ([66]%)", "[-1] Range"], 
 		"promotions": ["Ignore terrain cost", "Drill I"],
 		"civilopediaText": [
 			{
