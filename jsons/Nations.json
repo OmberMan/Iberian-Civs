@@ -26,10 +26,10 @@
 		"hateYes": ".",
 		
 		"afterPeace": ".",
-		"tradeRequest": "I'll throw in a rock if you promise not to come back.",
+		"tradeRequest": "I'll throw in a smile if you promise not to come back.",
 		
 		"outerColor": [246, 133, 7],																			
-		"innerColor": [255,210,51],																				
+		"innerColor": [255,228,50],																				
 		//"favoredReligion": ".",																				
 		"uniqueName": "Gorilla Warfare",																					
 		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory<while the empire is happy>", "[+50]% to Flank Attack bonuses<when fighting in [Friendly Land] tiles>", "[1] additional attacks per turn<when fighting units from a Civilization with more Cities than you><when fighting in [Friendly Land] tiles>"],							
@@ -50,7 +50,7 @@
 		"declaringWar": "It's just not working, see?",
 		"attacked": "Oh no oh shit.",
 		"defeated": "Our culture... outlived... by the... fucking Turdetani...",
-		"introduction": ".",
+		"introduction": "Welcome great leader, apologies if you were looking for Atlantis or the end of the Earth. I am Arganthonios, Silver King of Tartessos.",
 
 		"neutralHello": "Hello, come from very far?",
 		"neutralLetsHearIt": ".",
@@ -65,8 +65,8 @@
 		"afterPeace": ".",
 		"tradeRequest": "We've got the nicest stuff, possibly Atlantean, whose to say.",
 		
-		"outerColor": [226, 223, 91],																			
-		"innerColor": [82,230,225],																				
+		"outerColor": [216, 203, 71],																			
+		"innerColor": [72,220,215],																				
 		//"favoredReligion": ".",																				
 		"uniqueName": "Beyond the Pillars of Hercules",																					
 		"uniques": ["[+1 Production, +3 Gold] from [Trading post] tiles [in all coastal cities]<during a Golden Age>", "[+6 Gold, +2 Culture] from [Customs house] tiles [in all coastal cities]<during a Golden Age>", "[100]% Yield from every [Gold Ore]", "[100]% Yield from every [Silver]", "[100]% Yield from every [Copper]"],							
