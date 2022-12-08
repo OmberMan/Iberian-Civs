@@ -1,6 +1,6 @@
 [
           { 
-		"name": "Falacta Flinger",
+		"name": "Falarica Flinger",
 		"unitType": "Archery",
 		"replaces": "Composite Bowman",
 		"movement": 3,
@@ -33,8 +33,25 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 	  	"upgradesTo": "Crossbowman",
-                "uniques": ["May withdraw before melee ([40]%)", "[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+20]% Strength <vs cities> <when attacking>", "Destroys tile improvements when attacking"],
+                "uniques": ["May withdraw before melee ([40]%)", "[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+15]% Strength <vs cities> <when attacking>", "Destroys tile improvements when attacking"],
 		"uniqueTo": "Tartessos",
 		"attackSound": "nonmetalhit",
 	},
+   
+{
+        
+	"name": "Falcata Warrior",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 13,
+        "cost": 75,
+        "requiredTech": "Iron Working",
+        "obsoleteTech": "Metallurgy",
+        "replaces": "Swordsman",
+        "uniques": ["[+20]% Strength <vs [Sword] units>", "[+20]% Strength <with [Iron]>", "[+50]% XP gained from combat <in [Foreign Land] tiles>"]
+        "uniqueTo": "Iberia",
+        "upgradesTo": "Longswordsman",
+        "attackSound": "metalhit"
+    },
 ]
+
