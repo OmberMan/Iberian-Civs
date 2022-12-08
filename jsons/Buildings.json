@@ -1,13 +1,13 @@
 [
     {
-        "name": "Trading Port",
+        "name": "Turruca",
         "uniqueTo": "Tartessos",
         "cost": 140,
         "replaces": "Harbor",
         "maintenance": 1,
         "hurryCostModifier": 25,
         "uniques": ["[+1 Production] from [Water resource] tiles [in this city]", "Connects trade routes over water", "Must be next to [Coast]", "Provides [1] [Silver]", "[+2 Gold, +1 Culture] from each Trade Route <when not at war>", "[+2 Gold] from [Silver] tiles [in this city]", "[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Copper] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]", "Destroyed when the city is captured"],
-		    "requiredTech": "Construction",
+	"requiredTech": "Sailing",
     },
 
     {
@@ -23,4 +23,16 @@
 		    "uniques": ["Must be next to [Hill]", "[+1 Production] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city] <during a Golden Age>", "Destroyed when the city is captured"],        
 		    "requiredTech": "Calendar",
     },
+{
+        "name": "Oppidia",
+        "uniqueTo": "Iberia"
+        "replaces": "Walls"
+        "production": 1,
+        "culture": 1,
+        "maintenance": 1,
+        "hurryCostModifier": 0,
+        "uniques": ["[+2 Gold, +2 Culture] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]", "[+10]% Food is carried over after population increases [in the city] <during a Golden Age>", "IT FUCKING WIP KILL ME EMEMM"],        
+        "requiredTech": "Calendar"
+    },
 ]
+
