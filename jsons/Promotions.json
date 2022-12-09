@@ -1,10 +1,10 @@
 [ 
 	{
-		"name": "[Falcata Warrior] ability",
-		"uniques": ["[+33]% Strength <when below [10] HP>", "Double movement in [Hill]", "Eliminates combat penalty for attacking over a river"]
+		"name": "[Falcata Fighter] ability",
+		"uniques": ["[+33]% Strength <when below [10] HP>", "Eliminates combat penalty for attacking over a river"]
 	},
   	{
 		"name": "[Terrain Experience] ability",
-		"uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "[+50]% XP gained from combat <on foreign continents>"]
+		"uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "Double movement in [Hill]", "[+50]% XP gained from combat <on foreign continents>"]
 	}
 ]
