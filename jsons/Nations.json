@@ -4,11 +4,11 @@
 		"name": "Lusitania",
 		"leaderName": "Viriathus",
 		"adjective": ["Lusitanian"],
-		"startBias": ["Avoid Tundra", "Hills"],
-		"preferredVictoryType":"Cultural",																//Scientific, Cultural, Domination
+		"startBias": ["Avoid Snow", "Hills"],
+		"preferredVictoryType":"Neutral",																//Scientific, Cultural, Domination
 		
-		"startIntroPart1": ".",																				//Change . into anything (or not, it's not crucial)
-		"startIntroPart2": ".",
+		"startIntroPart1": "Love is the Law",																				//Change . into anything (or not, it's not crucial)
+		"startIntroPart2": "Law under Will",
 
 		"declaringWar": "Suprise motherfucker.",
 		"attacked": "Worms in breastplates, I knew you were scum.",
@@ -44,8 +44,8 @@
 		"startBias": ["Coast", "Avoid Snow"],
 		"preferredVictoryType":"Scientific",																
 		
-		"startIntroPart1": ".",																				
-		"startIntroPart2": ".",
+		"startIntroPart1": "fuck the Turdetani",																				
+		"startIntroPart2": "all my homies hate the Turdetuli",
 
 		"declaringWar": "It's just not working, see?",
 		"attacked": "Oh no oh shit.",
@@ -81,8 +81,8 @@
 		"startBias": ["Avoid Tundra", "Hill"],
 		"preferredVictoryType":"Cultural",																
 		
-		"startIntroPart1": ".",																				
-		"startIntroPart2": ".",
+		"startIntroPart1": "I hope I cut myself shaving tommorow",																				
+		"startIntroPart2": "I hope it bleeds all day long",
 
 		"declaringWar": "I think it's time we were rid of you.",
 		"attacked": "Hm? And there I thought it too late to wait for a decent fight to come to us.",
