@@ -48,7 +48,7 @@
         "requiredTech": "Iron Working",
         "obsoleteTech": "Metallurgy",
         "replaces": "Swordsman",
-        "uniques": ["[+20]% Strength <vs [Sword] units>", "[+20]% Strength <with [Iron]>", "[+50]% XP gained from combat <in [Foreign Land] tiles>"]
+        "uniques": ["[+20]% Strength <with [Iron]>"]
         "uniqueTo": "Iberia",
         "upgradesTo": "Longswordsman",
         "attackSound": "metalhit"
