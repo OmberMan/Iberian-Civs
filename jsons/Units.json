@@ -49,6 +49,7 @@
         "obsoleteTech": "Metallurgy",
         "replaces": "Swordsman",
         "uniques": ["[+20]% Strength <with [Iron]>"]
+	"promotions": ["[Falcata Fighter] ability"]
         "uniqueTo": "Iberia",
         "upgradesTo": "Longswordsman",
         "attackSound": "metalhit"
