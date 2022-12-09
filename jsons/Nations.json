@@ -85,17 +85,17 @@
 		"startIntroPart2": ".",
 
 		"declaringWar": "I think it's time we were rid of you.",
-		"attacked": "Hm? And there I thought it too late for a decent fight to come to us.",
-		"defeated": "Ah... Well, you've bested the Illegertae, my people are in your hands; though you'll have to find someone else to sign your treaty.",
-		"introduction": "Hail, you've reached the territory of the Illegertes, atop the corpses of fools who thought otherwise. Keep that in mind, and we're sure to get along fine.",
+		"attacked": "Hm? And there I thought it too late to wait for a decent fight to come to us.",
+		"defeated": "Ah... Well, you've bested the Illergetae, our people are in your hands; though you'll have to find someone else to sign your treaty.",
+		"introduction": "Hail, I am Indibillis and my brother here is Mandonius. You've reached the territory of the Illegertes, sitting atop the corpses of fools who thought otherwise. Keep that in mind, and we're sure to get along fine.",
 
-		"neutralHello": "Yeah? Looking for something?",
+		"neutralHello": "Yeah? Mandonius said you were looking for something?",
 		"neutralLetsHearIt": "Got something we'd want?",
 		"neutralNo": "Nope. Do a little better next time.",
 		"neutralYes": "Deal. Stop by next time you're looking for some sharp steel or some men who can fight.",
 
 		"hateHello": "Go on, give us reason.",
-		"hateLetsHearIt": "Well, I'm listening?",
+		"hateLetsHearIt": "My brother believes you've got something of value. Well?",
 		"hateNo": "Hmph. You really think you're hot shit, eh? Get lost.",
 		"hateYes": "Fine.",
 		
@@ -105,7 +105,7 @@
 		"outerColor": [110,128,18],																			
 		"innerColor": [252,146,124],																				
 		"favoredReligion": "Christianity",																				
-		"uniqueName": "Toledo Steel",																					
+		"uniqueName": "Hispani Steel",																					
 		"uniques": ["All newly-trained [Melee] units [in non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +2 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>"]						
 		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
     },
