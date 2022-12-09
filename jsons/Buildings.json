@@ -13,6 +13,7 @@
     {
 		    "name": "Pedra Formosa",
         "uniqueTo": "Lusitania",
+	    "cost": 40,
         "replaces": "Stone Works",
 		    "happiness": 2,
 		    "production": 1,
@@ -20,19 +21,24 @@
         "requiredNearbyImprovedResources": ["Marble", "Stone"],
 		    "maintenance": 1,
 		    "hurryCostModifier": 0,
-		    "uniques": ["Must be next to [Hill]", "[+1 Production] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city] <during a Golden Age>", "Destroyed when the city is captured"],        
+		    "uniques": ["[+1 Production] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]", "[+10]% Food is carried over after population increases [in this city] <during a Golden Age>", "Destroyed when the city is captured"],        
 		    "requiredTech": "Calendar",
     },
 {
         "name": "Oppidia",
         "uniqueTo": "Iberia"
+	"cost": "75"
         "replaces": "Walls"
-        "production": 1,
-        "culture": 1,
+        "cityStrength": 5,
+	"cityHealth": 25,
+	"production": 1,
         "maintenance": 1,
+	"specialistSlots": {
+		"Artist": 1
+	},
         "hurryCostModifier": 0,
-        "uniques": ["[+2 Gold, +2 Culture] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]", "[+10]% Food is carried over after population increases [in the city] <during a Golden Age>", "IT FUCKING WIP KILL ME EMEMM"],        
-        "requiredTech": "Calendar"
+        "uniques": ["New [Millitary] units start with [10] Experience [in this city]"]        
+        "requiredTech": "Masonry"
     },
 ]
 
