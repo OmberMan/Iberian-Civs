@@ -106,7 +106,7 @@
 		"innerColor": [252,146,124],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "Hispani Steel",																					
-		"uniques": ["All newly-trained [Melee] units [in non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +2 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>"]						
+		"uniques": ["All newly-trained [Melee] units [in all non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +2 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>"]						
 		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
     },
 	
