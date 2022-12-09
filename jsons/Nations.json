@@ -32,7 +32,7 @@
 		"innerColor": [255,228,50],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "Gorilla Warfare",																					
-		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory<while the empire is happy>", "[+50]% to Flank Attack bonuses <when fighting units from a Civilization with more Cities than you>", "[+1] Movement <for [Millitary] units> <when fighting in [Friendly Land] tiles>"],							
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>", "[+50]% to Flank Attack bonuses <when fighting units from a Civilization with more Cities than you>", "[+1] Movement <for [Millitary] units> <in [Friendly Land] tiles>"],							
 		"cities": ["Emerita Augusta", "Scalabis Iulia", "Pax Iulia", "Felicitas Iulia Olisipo"],
     },
 	 
@@ -69,7 +69,7 @@
 		"innerColor": [72,220,215],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "Beyond the Pillars of Hercules",																					
-		"uniques": ["[+1 Production, +3 Gold] from [Trading post] tiles [in all coastal cities]<during a Golden Age>", "[+6 Gold, +2 Culture] from [Customs house] tiles [in all coastal cities]<during a Golden Age>", "[100]% Yield from every [Gold Ore]", "[100]% Yield from every [Silver]", "[100]% Yield from every [Copper]"],							
+		"uniques": ["[+1 Production, +3 Gold] from [Trading post] tiles [in all coastal cities] <during a Golden Age>", "[+6 Gold, +2 Culture] from [Customs house] tiles [in all coastal cities] <during a Golden Age>", "[100]% Yield from every [Gold Ore]", "[100]% Yield from every [Silver]", "[100]% Yield from every [Copper]"],							
 		"cities": ["Tartessos", "Tartwossos", "Tarthressos", "my fucking nuts lmao", "The Ludus"],
     },
 
@@ -91,7 +91,7 @@
 
 		"neutralHello": "Yeah? Looking for something?",
 		"neutralLetsHearIt": "Got something we'd want?",
-		"neutralNo": "Do a little better next time.",
+		"neutralNo": "Nope. Do a little better next time.",
 		"neutralYes": "Deal. Stop by next time you're looking for some sharp steel or some men who can fight.",
 
 		"hateHello": "Go on, give us reason.",
@@ -100,13 +100,13 @@
 		"hateYes": "Fine.",
 		
 		"afterPeace": "You foreigners say forgive and forget. That forgetfulness keeps getting you killed.",
-		"tradeRequest": "Stone? Yup. Steel? Best there is. Gold? So much left to sell, and it never seems to lose value.",
+		"tradeRequest": "Stone? Yup. Steel? Best there is. Gold? Got enough for sale to keep our economy prospering for a thousand years.",
 		
 		"outerColor": [110,128,18],																			
 		"innerColor": [252,146,124],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "Toledo Steel",																					
-		"uniques": ["All newly-trained [Melee] units [in non-occupied cities] receive the [Terrain Experience] promotion", "[+2 Gold, +2 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>"]						
+		"uniques": ["All newly-trained [Melee] units [in non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +2 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>"]						
 		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
     },
 	
