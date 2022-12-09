@@ -2,7 +2,7 @@
     {
         "name": "Turruca",
         "uniqueTo": "Tartessos",
-        "cost": 140,
+        "cost": 145,
         "replaces": "Harbor",
         "maintenance": 1,
         "hurryCostModifier": 25,
@@ -13,7 +13,7 @@
     {
 		    "name": "Pedra Formosa",
         "uniqueTo": "Lusitania",
-	    "cost": 40,
+	    "cost": 75,
         "replaces": "Stone Works",
 		    "happiness": 2,
 		    "production": 1,
@@ -35,7 +35,7 @@
 	"specialistSlots": {
 		"Artist": 1
 	},
-        "hurryCostModifier": 0,
+        "hurryCostModifier": 25,
         "uniques": ["New [Millitary] units start with [10] Experience [in this city]", "[+1 Gold] from each Trade Route"]        
         "requiredTech": "Masonry"
     },
