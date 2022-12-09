@@ -32,7 +32,7 @@
 		"innerColor": [255,228,50],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "Gorilla Warfare",																					
-		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory<while the empire is happy>", "[+50]% to Flank Attack bonuses<when fighting in [Friendly Land] tiles>", "[1] additional attacks per turn<when fighting units from a Civilization with more Cities than you><when fighting in [Friendly Land] tiles>"],							
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory<while the empire is happy>", "[+50]% to Flank Attack bonuses <when fighting units from a Civilization with more Cities than you>", "[+1] Movement <for [Millitary] units> <when fighting in [Friendly Land] tiles>"],							
 		"cities": ["Emerita Augusta", "Scalabis Iulia", "Pax Iulia", "Felicitas Iulia Olisipo"],
     },
 	 
@@ -106,7 +106,7 @@
 		"innerColor": [252,146,124],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "Toledo Steel",																					
-		"uniques": ["All newly-trained [Melee] units [in non-occupied cities] receive the [Drill I] promotion", "[+1 Culture] from [Quarry] tiles [in all non-occupied cities]", "[+2 Gold, +1 Production, +2 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>"]						
+		"uniques": ["All newly-trained [Melee] units [in non-occupied cities] receive the [Terrain Experience] promotion", "[+2 Gold, +2 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>"]						
 		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
     },
 	
