@@ -6,6 +6,7 @@
 		"adjective": ["Lusitanian"],
 		"startBias": ["Avoid Snow", "Hills"],
 		"preferredVictoryType":"Neutral",																//Scientific, Cultural, Domination
+		"style": "Mediterranean",
 		
 		"startIntroPart1": "Love is the Law",																				//Change . into anything (or not, it's not crucial)
 		"startIntroPart2": "Law under Will",
@@ -44,6 +45,7 @@
 		"adjective": ["Tartessian"],
 		"startBias": ["Coast", "Hills"],
 		"preferredVictoryType":"Scientific",																
+		"style": "Mesopotamian",
 		
 		"startIntroPart1": " ` * ~ Fuck the Turdetani ~ * ` ",																				
 		"startIntroPart2": " ` * ~ All my homies hate the Turdetuli ~ * ` ",
@@ -82,6 +84,7 @@
 		"adjective": ["Iberian"],
 		"startBias": ["Avoid Tundra", "Hill"],
 		"preferredVictoryType":"Cultural",																
+                "style": "Mediterranean",
 		
 		"startIntroPart1": "I hope I cut myself shaving tommorow",																				
 		"startIntroPart2": "I hope it bleeds all day long",
