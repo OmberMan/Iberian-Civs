@@ -33,8 +33,8 @@
 		"innerColor": [255,228,55],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "Gorilla Warfare",																					
-		"uniqueText": "+1 movement for millitary units in Lusitani land; additionally, -1 movement for enemy millitary units if the empire is happy. Flank attacks are 50% more effective vs civilizations with more cities than Lusitania.",
-		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>", "[+50]% to Flank Attack bonuses <when fighting units from a Civilization with more Cities than you>", "[+1] Movement <for [Millitary] units> <in [Friendly Land] tiles>"],							
+		"uniqueText": "+1 movement for military units in Lusitani land; additionally, -1 movement for enemy millitary units if the empire is happy. Flank attacks are 67% more effective vs civilizations with more cities than Lusitania.",
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>", "[+67]% to Flank Attack bonuses <when fighting units from a Civilization with more Cities than you>", "[+1] Movement <for [Land] units> <in [Friendly Land] tiles>"],							
 		"cities": ["Emerita Augusta", "Scalabis Iulia", "Pax Iulia", "Felicitas Iulia Olisipo"],
     },
 	 
@@ -53,7 +53,7 @@
 		"declaringWar": "It's just not working, see?",
 		"attacked": "Oh no oh shit.",
 		"defeated": "Our culture... outlived... by the... fucking Turdetani...",
-		"introduction": "Welcome, lesser but probably somewhat impressive leader, apologies if you were looking for Atlantis or the end of the Earth, but good news! I am Arganthonios, Silver King of Tartessos.",
+		"introduction": "Welcome, lesser but probably somewhat impressive leader; apologies if you were looking for Atlantis or the end of the Earth. But - good news! We're even better. I am Arganthonios, Silver King of Tartessos.",
 
 		"neutralHello": "Hello, come very far?",
 		"neutralLetsHearIt": "What's the news today brother, hmm?",
@@ -69,12 +69,12 @@
 		"tradeRequest": "We've got the nicest stuff, possibly Atlantean, whose to say.",
 		
 		"outerColor": [206, 193, 63],																			
-		"innerColor": [72,220,215],																				
+		"innerColor": [76,230,225],																				
 		"favoredReligion": "Judaism",																				
 		"uniqueName": "Beyond the Pillars of Hercules",																					
 		"uniques": ["[+1 Production, +3 Gold] from [Trading post] tiles [in all coastal cities] <during a Golden Age>", "[+6 Gold, +2 Culture] from [Customs house] tiles [in all coastal cities] <during a Golden Age>", "[100]% Yield from every [Gold Ore]", "[100]% Yield from every [Silver]", "[100]% Yield from every [Copper]"],							
 		"uniqueText": "Gain double the yields from metal luxuries. During Golden Ages, gain +3 Gold and +1 Production on Trading Posts in coastal cities.",
-		"cities": ["Tartessos", "Tartwossos", "Tarthressos", "my fucking nuts lmao", "The Ludus"],
+		"cities": ["Tartessos", "Tartwossos", "Tarthressos", "Tourdulorum", "Turba", "my fucking nuts lmao", "The Ludus"],
     },
 
 	//Civilization 3
