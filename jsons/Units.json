@@ -9,7 +9,7 @@
 		"cost": 75,
 		"hurryCostModifier": 15,
 		"requiredTech": "Construction",
-		"obsoleteTech": "Chemistry",
+		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"uniqueTo": "Lusitania",
 		"uniques": ["Can move after attacking", "[+33]% Strength <vs [Siege] units>", "Invisible to non-adjacent units", "Ignores Zone of Control", "May withdraw before melee ([50]%)", "[-1] Range"], 
@@ -39,7 +39,7 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 	 "upgradesTo": "Crossbowman",
-  "uniques": ["May withdraw before melee ([40]%)", "[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+20]% Strength <vs cities> <when attacking>", "Ranged attacks may be performed over obstacles"],
+  "uniques": ["May withdraw before melee ([40]%)", "[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+20]% Strength <vs cities> <when attacking>", "Ranged attacks may be performed over obstacles", "Can move immediately once bought"],
 		"uniqueTo": "Tartessos",
 		"attackSound": "nonmetalhit",
 "civilopediaText": [
