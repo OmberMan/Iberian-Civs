@@ -39,7 +39,7 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 	 "upgradesTo": "Crossbowman",
-  "uniques": ["May withdraw before melee ([40]%)", "[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+20]% Strength <vs cities> <when attacking>", "Destroys tile improvements when attacking"],
+  "uniques": ["May withdraw before melee ([40]%)", "[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+20]% Strength <vs cities> <when attacking>", "Ranged attacks may be performed over obstacles"],
 		"uniqueTo": "Tartessos",
 		"attackSound": "nonmetalhit",
 "civilopediaText": [
