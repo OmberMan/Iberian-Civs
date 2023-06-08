@@ -27,10 +27,11 @@
 {
         "name": "Oppidia",
         "uniqueTo": "Iberia"
-	"cost": 60,
+	       "cost": 60,
         "replaces": "Walls"
         "cityStrength": 5,
        	"cityHealth": 25,
+        "percentStatBonus": {"food": 5},
        	"specialistSlots": {
 		      "Artist": 1},
         "hurryCostModifier": 20,
