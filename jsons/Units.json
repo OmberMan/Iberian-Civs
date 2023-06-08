@@ -15,6 +15,13 @@
 		"uniques": ["Can move after attacking", "[+33]% Strength <vs [Siege] units>", "Invisible to non-adjacent units", "Ignores Zone of Control", "May withdraw before melee ([50]%)", "[-1] Range"], 
 		"promotions": ["Ignore terrain cost", "Drill I"],
 		"civilopediaText": [
+{
+				"extraImage": "TileSets/FantasyHex/Units/Falarica Flinger",
+				"imageSize": 128
+			},
+			{
+				"Separator": true
+			},
 			{
 				"text": "tbh you're better off without catapults anyways."
 			}
@@ -31,12 +38,23 @@
 		"cost": 75,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
-	  	"upgradesTo": "Crossbowman",
-                "uniques": ["May withdraw before melee ([40]%)", "[+15]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+15]% Strength <vs cities> <when attacking>", "Destroys tile improvements when attacking"],
+	 "upgradesTo": "Crossbowman",
+  "uniques": ["May withdraw before melee ([40]%)", "[+20]% Strength <when fighting in [Rough terrain] tiles> <when attacking>", "[+20]% Strength <vs cities> <when attacking>", "Destroys tile improvements when attacking"],
 		"uniqueTo": "Tartessos",
 		"attackSound": "nonmetalhit",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Sling Flinger",
+				"imageSize": 128
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Very fast stones flying at incredible speeds"
+			}
+		]
 	},
-   
 {
         
 	"name": "Falcata Fighter",
@@ -51,7 +69,19 @@
 	"promotions": ["Falcata Fighter"]
         "uniqueTo": "Iberia",
         "upgradesTo": "Longswordsman",
-        "attackSound": "metalhit"
+        "attackSound": "metalhit",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Falcata Fighter",
+				"imageSize": 128
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "These should've been called Scutarii or something, sorry. I thought I had a thing going with the names idk dude"
+			}
+		]
     },
 ]
 
