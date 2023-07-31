@@ -90,9 +90,9 @@
 		"startIntroPart2": "I hope it bleeds all day long",
 
 		"declaringWar": "I think it's time we were rid of you.",
-		"attacked": "Hm? And here I thought it was too late for a decent fight to come to us.",
-		"defeated": "Ah... Well, you've bested the Illergetae, and our people are in your hands; though you'll have to find someone else for your Triumph.",
-		"introduction": "Hail, I am Indibillis and my brother here is Mandonius. This is the territory of the Illegertes, laying atop the corpses of fools who thought otherwise. Remember that, and we should get along fine.",
+		"attacked": "Hm? And here I was just waiting for a decent fight to come to us.",
+		"defeated": "Ah... Well, you've bested the Illergetae and our people are in your hands; though you'll have to find someone else to execute in your Triumph.",
+		"introduction": "Hail, I am Indibillis and my brother and co-ruler is Mandonius. This is the territory of the Illegertes, laying atop the corpses of fools who thought otherwise. Remember that, and we should get along fine.",
 
 		"neutralHello": "Yeah? Mandonius said you were looking for something?",
 		"neutralLetsHearIt": "Have something we'd want?",
@@ -115,5 +115,41 @@
 		"uniques": ["All newly-trained [Melee] units [in all non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +3 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>", "[+1 Production] from [Quarry] tiles [in all cities]"]						
 		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
     },
+{
+		"name": "Cantabria",
+		"leaderName": "Indibillis",
+		"adjective": ["Celtiberian"],
+		"startBias": ["Hill", "Plains"],
+		"preferredVictoryType":"Domination",																
+  "style": "Mediterranean",
+		
+		"startIntroPart1": "Mother I tried please believe me \nI'm doing the best that I can",																				
+		"startIntroPart2": "I'm ashamed of the things I've been put through \nI'm ashamed of the person I am",
+
+		"declaringWar": "I think it's time we were rid of you.",
+		"attacked": "Hm? And here I was just waiting for a decent fight to come to us.",
+		"defeated": "Ah... Well, you've bested the Illergetae and our people are in your hands; though you'll have to find someone else to execute in your Triumph.",
+		"introduction": "Hail, I am Indibillis and my brother and co-ruler is Mandonius. This is the territory of the Illegertes, laying atop the corpses of fools who thought otherwise. Remember that, and we should get along fine.",
+
+		"neutralHello": "Yeah? Mandonius said you were looking for something?",
+		"neutralLetsHearIt": "Have something we'd want?",
+		"neutralNo": "Nope. Do a little better next time.",
+		"neutralYes": "Deal. Stop by next time you're looking for some sharp steel or men who can use it.",
+
+		"hateHello": "Go on, give us reason.",
+		"hateLetsHearIt": "My brother believes you've got something of value. Well?",
+		"hateNo": "Hmph. Really think you're hot shit, eh? Get lost.",
+		"hateYes": "Fine.",
+		
+		"afterPeace": "You foreigners say forgive and forget. I say that forgetfulness keeps getting you killed.",
+		"tradeRequest": "Never good to horde too much gold for too long.",
+		
+		"outerColor": [235,56,89],																			
+		"innerColor": [207,221,41],																				
+		"favoredReligion": "Christianity",																				
+		"uniqueName": "Hispanian Steel",																					
+		"uniqueText": "Cavalry units built during war ignore zoc.",
+		"uniques": ["All newly-trained [Melee] units [in all non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +3 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>", "[+1 Production] from [Quarry] tiles [in all cities]"]						
+		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
 	
 ]
