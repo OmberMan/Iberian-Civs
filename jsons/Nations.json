@@ -151,5 +151,5 @@
 		"uniqueText": "Cavalry (or Armor) Units built in cities on hills gain the Cantabrian Circle promotion. -50% Maintenance for Cavalry Units. +1 [Production] on Gold.",
 		"uniques": ["All newly-trained [Melee] units [in all non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +3 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>", "[+1 Production] from [Quarry] tiles [in all cities]"]						
 		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
-	
+}
 ]
