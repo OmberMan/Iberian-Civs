@@ -12,14 +12,14 @@
 		"startIntroPart2": "Law under Will",
 
 		"declaringWar": "Suprise motherfucker.",
-		"attacked": "Worms in breastplates! I knew you were snakes.",
-		"defeated": "You may have defeated me, but you won't live to claim victory over the Lusitani.",
+		"attacked": "The Lusitani have prepared for this, you worms in breastplates! I always knew you were snakes.",
+		"defeated": "You may have defeated me, but you won't live to see victory claimed over the Lusitani; nor will I.",
 		"introduction": "Welcome to the plains of Asphodel motherfucker. I am Viriathus of the Lusitani, and you'd better not be Romans.",
 
 		"neutralHello": "Hmn? What's the good news?",
 		"neutralLetsHearIt": "Yes...?",
 		"neutralNo": "No-pe.",
-		"neutralYes": "Ah great, you've got yourself a deal :)",
+		"neutralYes": "Ah very well, you've got yourself a deal...",
 
 		"hateHello": "I should kill you where you stand.",
 		"hateLetsHearIt": "...",
@@ -53,20 +53,20 @@
 		"declaringWar": "It's just not working out, see?",
 		"attacked": "Oh no oh shit.",
 		"defeated": "Our culture... outlived... by the fucking... Turdetani...",
-		"introduction": "Welcome, lesser but still somewhat impressive leader! We're you perhaps looking for Atlantis, or the end of the world? Well I have good news; we're even better. I am Arganthonios, Silver King of Tartessos.",
+		"introduction": "Welcome, o despot of some distant kingdom! Were you perhaps searching for Atlantis, or the end of the world? If so, rest assured; while digging for silver you have struck gold. I am Arganthonios, Silver King of Tartessos.",
 
-		"neutralHello": "Hello, come very far?",
+		"neutralHello": "Hello, come far?",
 		"neutralLetsHearIt": "What's the news today brother, hmm?",
 		"neutralNo": "I'm afraid you've quite underevaluated our position...",
 		"neutralYes": "My pleasure friend~.",
 
 		"hateHello": "-Ahh, what?",
 		"hateLetsHearIt": "I doubt you've anything of worth, but... amuse me.",
-		"hateNo": "Who thought it necessary an audience with these medicants?",
-		"hateYes": "Sure, now please choose to go elsewhere next time, should you continue acting like a pest.",
+		"hateNo": "Who thought it necessary to schedule an audience with these medicants?",
+		"hateYes": "Sure, but please choose to go elsewhere next time should you continue acting like a pest.",
 		
 		"afterPeace": "Good, good, let's keep it that way; these conflicts are needlessly expensive, really.",
-		"tradeRequest": "We've got the nicest stuff, possibly Atlantean, whose to say.",
+		"tradeRequest": "We've got the nicest stuff, possibly Atlantean, I mean whose to say?",
 		
 		"outerColor": [209, 198, 63],																			
 		"innerColor": [84,230,236],																				
@@ -107,15 +107,15 @@
 		"afterPeace": "You foreigners say forgive and forget. I say that forgetfulness keeps getting you killed.",
 		"tradeRequest": "Never good to horde too much gold for too long.",
 		
-		"outerColor": [110,128,18],																			
-		"innerColor": [252,146,124],																				
+		"outerColor": [105,138,18],																			
+		"innerColor": [252,146,119],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "Hispanian Steel",																					
-		"uniqueText": "+2 [Gold] and +3 [Culture] in each city built on Hills during peacetime; when at war gain +20% Production towards Melee units instead. \nOppidia grant Melee units built in their city the Terrian Experience promotion. \n+1 [Production] from every Quarry",
-		"uniques": ["All newly-trained [Melee] units [in all non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +3 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>", "[+1 Production] from [Quarry] tiles [in all cities]"]						
+		"uniqueText": "+2 [Gold] and +2 [Culture] in each city built on Hills during peacetime; when at war gain +20% Production towards Melee units instead. \nOppidia grant Melee units built in their city the Terrian Experience promotion. \n+1 [Production] and [Culture] from every Quarry",
+		"uniques": ["All newly-trained [Melee] units [in all non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +2 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>", "[+1 Production, +1 Culture] from [Quarry] tiles [in all cities]"]						
 		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
     },
-{
+/* {
 		"name": "Cantabria",
 		"leaderName": "Indibillis",
 		"adjective": ["Celtiberian"],
@@ -151,5 +151,5 @@
 		"uniqueText": "Cavalry (or Armor) Units built in cities on hills gain the Cantabrian Circle promotion. -50% Maintenance for Cavalry Units. +1 [Production] on Gold.",
 		"uniques": ["All newly-trained [Melee] units [in all non-occupied cities] receive the [Terrain Experience] promotion <in cities with a [Oppidia]>", "[+2 Gold, +3 Culture] in cities on [Hill] tiles <when not at war>", "[+20]% Production when constructing [Melee] units [in all non-occupied cities] <when at war>", "[+1 Production] from [Quarry] tiles [in all cities]"]						
 		"cities": ["Edeta", "Salduba", "Hibera", "Basti", "Libissosa", "Arse", "Setabi", "Uxama Argelae", "Tarraco", "Empodrae"],
-}
+} */
 ]
