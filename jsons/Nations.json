@@ -48,7 +48,7 @@
 		"style": "Mesopotamian",
 		
 		"startIntroPart1": " ` * ~ Fuck the Turdetani ~ * ` ",																				
-		"startIntroPart2": " ` * ~ All my homies hate the Turdetuli ~ * ` ",
+		"startIntroPart2": " ` * ~ All my homies hate the Turduli ~ * ` ",
 
 		"declaringWar": "It's just not working out, see?",
 		"attacked": "Oh no oh shit.",
@@ -68,13 +68,13 @@
 		"afterPeace": "Good, good, let's keep it that way; these conflicts are needlessly expensive, really.",
 		"tradeRequest": "We've got the nicest stuff, possibly Atlantean, I mean whose to say?",
 		
-		"outerColor": [209, 198, 63],																			
+		"outerColor": [209, 188, 58],																			
 		"innerColor": [84,230,236],																				
 		"favoredReligion": "Judaism",																				
 		"uniqueName": "Beyond the Pillars of Hercules",																					
-		"uniques": ["[+1 Production, +1 Gold] from [Trading post] tiles [in all coastal cities]","[+2 Gold] from [Trading post] tiles [in all coastal cities] <during a Golden Age>", "[+6 Gold, +2 Culture] from [Customs house] tiles [in all coastal cities] <during a Golden Age>", "[100]% Yield from every [Gold Ore]", "[100]% Yield from every [Silver]", "[100]% Yield from every [Copper]", "Double quantity of [Gold Ore] produced", "Double quantity of [Silver] produced", "Double quantity of [Copper] produced"],							
+		"uniques": ["[+1 Production, +1 Gold] from [Trading post] tiles [in all coastal cities]","[+2 Gold] from [Trading post] tiles [in all coastal cities] <during a Golden Age>", "[+6 Gold, +2 Culture] from [Customs house] tiles [in all coastal cities] <during a Golden Age>", "[100]% Yield from every [Gold Ore]", "[100]% Yield from every [Silver]", "[100]% Yield from every [Copper]", "Double quantity of [Gold Ore] produced", "Double quantity of [Silver] produced", "Double quantity of [Copper] produced", "[+1 Culture] per every [250] [Gold]"],							
 		"uniqueText": "Metal luxuries produce double their yields and copies. +1 [Gold] and +1 [Production] on Trading Posts in coastal cities, plus another +2 [Gold] during a Golden Age",
-		"cities": ["Tartessos", "Tartwossos", "Tarthressos", "Turdetanis", "Tourdulorum", "Turba", "Turditulon", "my fucking nuts lmao", "The Ludus"],
+		"cities": ["Tartessos", "Tartwossos", "Tarthressos", "Turdetanis", "Tourdulorum", "Turba", "Turditulon", "Turdulium Oppidani","my fucking nuts lmao", "The Ludus"],
     },
 
 	//Civilization 3
