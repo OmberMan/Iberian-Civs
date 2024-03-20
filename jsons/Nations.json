@@ -44,8 +44,8 @@
 		"leaderName": "Arganthonios",
 		"adjective": ["Tartessian"],
 		"startBias": ["Coast", "Gold Ore"],
-		"preferredVictoryType":"Scientific",																
-		"style": "Mesopotamian",
+		"preferredVictoryType":"Diplomatic",																
+		"style": "Mediterranean",
 		
 		"startIntroPart1": " ` * ~ Fuck the Turdetani ~ * ` ",																				
 		"startIntroPart2": " ` * ~ All my homies hate the Turduli ~ * ` ",
