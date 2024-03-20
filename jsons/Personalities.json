@@ -10,7 +10,8 @@
                 "faith": 3,
                 "military": 7,
                 "warMongering": 5
-        },
+
+     },
   {
                 "name": "Lusitani",
                 "preferredVictoryType": "Neutral",
@@ -22,6 +23,9 @@
                 "faith": 5,
                 "military": 8,
                 "warMongering": 5
+"priorities": {
+    "Liberty": 10,
+}
         },
   {
                 "name": "Tartessian",
@@ -34,5 +38,9 @@
                 "faith": 2,
                 "military": 2,
                 "warMongering": 2
+"priorities": {
+    "Commerce": 40,
+    "Exploration": 20,
+}
         },
 ]
