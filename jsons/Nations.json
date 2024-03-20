@@ -3,6 +3,7 @@
 	{
 		"name": "Lusitania",
 		"leaderName": "Viriathus",
+		"personality": "Lusitani",
 		"adjective": ["Lusitanian"],
 		"startBias": ["Avoid Tundra", "Hills"],
 		"preferredVictoryType":"Neutral",
@@ -42,6 +43,7 @@
 	{
 		"name": "Tartessos",
 		"leaderName": "Arganthonios",
+		"personality": "Tartessian",
 		"adjective": ["Tartessian"],
 		"startBias": ["Coast", "Gold Ore"],
 		"preferredVictoryType":"Diplomatic",																
@@ -83,7 +85,8 @@
 		"leaderName": "Indibillis",
 		"adjective": ["Iberian"],
 		"startBias": ["Hill"],
-		"preferredVictoryType":"Cultural",																
+		"personality": "Iberian"
+		"preferredVictoryType":"Neutral",																
   "style": "Mediterranean",
 		
 		"startIntroPart1": "I hope I cut myself shaving tommorow",																				
