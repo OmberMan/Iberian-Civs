@@ -1,0 +1,38 @@
+[
+{
+                "name": "Iberian",
+                "preferredVictoryType": "Neutral",
+                "food": 6,
+                "production": 7,
+                "gold": 6,
+                "culture": 7,
+                "science": 5,
+                "faith": 3,
+                "military": 7,
+                "warMongering": 5
+        },
+  {
+                "name": "Lusitani",
+                "preferredVictoryType": "Neutral",
+                "food": 6,
+                "production": 5,
+                "gold": 4,
+                "culture": 5,
+                "science": 3,
+                "faith": 5,
+                "military": 8,
+                "warMongering": 5
+        },
+  {
+                "name": "Tartessian",
+                "preferredVictoryType": "Diplomatic",
+                "food": 3,
+                "production": 6,
+                "gold": 10,
+                "culture": 3,
+                "science": 6,
+                "faith": 2,
+                "military": 2,
+                "warMongering": 2
+        },
+]
