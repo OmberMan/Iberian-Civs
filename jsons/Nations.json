@@ -12,11 +12,11 @@
 		"startIntroPart2": "Law under Will",
 
 		"declaringWar": "Suprise motherfucker.",
-		"attacked": "The Lusitani have prepared for this, you worms in breastplates! I always knew you were snakes.",
-		"defeated": "You may have defeated me, but you won't live to see victory claimed over the Lusitani; nor will I.",
-		"introduction": "Welcome to the plains of Asphodel motherfucker. I am Viriathus of the Lusitani, and you'd better not be Romans.",
+		"attacked": "The Lusitani have prepared for you snakes in breastplates! I always knew you were vermin.",
+		"defeated": "You may have defeated me, but neither of us will live to see the destruction of the Lusitani.",
+		"introduction": "Welcome to the plains of Asphodel motherfucker. I am Viriathus of the Lusitani, and for your sake I hope you are not Romans.",
 
-		"neutralHello": "Hmn? What's the good news?",
+		"neutralHello": "Hm? What's the good news?",
 		"neutralLetsHearIt": "Yes...?",
 		"neutralNo": "No-pe.",
 		"neutralYes": "Ah very well, you've got yourself a deal...",
@@ -26,11 +26,11 @@
 		"hateNo": "Ha! How about a punctured lung instead?",
 		"hateYes": "Fine, choke on it.",
 		
-		"afterPeace": "This was but an taste of what'll happen should you bring harm to the Lusitani again.",
+		"afterPeace": "This was but an iota of what you will suffer should again seek to defile Lusitania.",
 		"tradeRequest": "I'll throw in a smile if you promise not to come back.",
 		
 		"outerColor": [243, 130, 6],																			
-		"innerColor": [255,228,55],																				
+		"innerColor": [255,248,70],																				
 		"favoredReligion": "Christianity",																				
 		"uniqueName": "First Guerilla War",																					
 		"uniqueText": "+1 movement for military units in Lusitani land; additionally, -1 movement for enemy millitary units if the empire is happy. Flank attacks are twice effective vs civilizations with more cities than Lusitania.",
@@ -52,8 +52,8 @@
 
 		"declaringWar": "It's just not working out, see?",
 		"attacked": "Oh no oh shit.",
-		"defeated": "Our culture... outlived... by the fucking... Turdetani...",
-		"introduction": "Welcome, o despot of some distant kingdom! Were you perhaps searching for Atlantis, or the end of the world? If so, rest assured; while digging for silver you have struck gold. I am Arganthonios, Silver King of Tartessos.",
+		"defeated": "But I'm too rich!? \nImpossible... Our culture outlived by the fucking Turduli... ",
+		"introduction": "Welcome, travellers from some distant kingdom! Many such as yourself stumble upon our wonderous city in search of Atlantis or the end of the world, just as one would strike gold while digging for silver. I am Arganthonios, Silver King of Tartessos.",
 
 		"neutralHello": "Hello, come far?",
 		"neutralLetsHearIt": "What's the news today brother, hmm?",
@@ -89,12 +89,12 @@
 		"startIntroPart1": "I hope I cut myself shaving tommorow",																				
 		"startIntroPart2": "I hope it bleeds all day long",
 
-		"declaringWar": "I think it's time we were rid of you.",
+		"declaringWar": "I think it's time the Illegertes were rid of you.",
 		"attacked": "Hm? And here I was just waiting for a decent fight to come to us.",
 		"defeated": "Ah... Well, you've bested the Illergetae and our people are in your hands; though you'll have to find someone else to execute in your Triumph.",
-		"introduction": "Hail, I am Indibillis and my brother and co-ruler is Mandonius. This is the territory of the Illegertes, laying atop the corpses of fools who thought otherwise. Remember that, and we should get along fine.",
+		"introduction": "Hail, I am Indibillis, and my brother and co-ruler is Mandonius. This is the territory of the Illegertes, laying atop the corpses of fools who thought otherwise. Remember that, and we should get along fine.",
 
-		"neutralHello": "Yeah? Mandonius said you were looking for something?",
+		"neutralHello": "Yes? Mandonius tells me you're looking for something.",
 		"neutralLetsHearIt": "Have something we'd want?",
 		"neutralNo": "Nope. Do a little better next time.",
 		"neutralYes": "Deal. Stop by next time you're looking for some sharp steel or men who can use it.",
@@ -104,8 +104,8 @@
 		"hateNo": "Hmph. Really think you're hot shit, eh? Get lost.",
 		"hateYes": "Fine.",
 		
-		"afterPeace": "You foreigners say forgive and forget. I say that forgetfulness keeps getting you killed.",
-		"tradeRequest": "Never good to horde too much gold for too long.",		
+		"afterPeace": "You foreigners say to forgive and forget. I say forgetfulness keeps getting you killed.",
+		"tradeRequest": "Never good to horde gold for too long.",		
 		"outerColor": [105,138,18],																			
 		"innerColor": [252,146,119],																				
 		"favoredReligion": "Christianity",																				
