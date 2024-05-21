@@ -1,7 +1,7 @@
 [ 
 	{
 		"name": "Falcata Fighter",
-		"uniques": ["[+33]% Strength <when below [25] HP>", "[+50]% XP gained from combat <on foreign continents>", "[+20]% Strength <when fighting in [Friendly Land] tiles>"]
+		"uniques": ["[+33]% Strength <when below [25] HP>", "[+3] XP gained from combat <on foreign continents>", "[+20]% Strength <when fighting in [Friendly Land] tiles>"]
 	},
   	{
 		"name": "Terrain Experience",
