@@ -13,7 +13,7 @@
 		"startIntroPart2": "Law under Will",
 
 		"declaringWar": "Suprise motherfucker.",
-		"attacked": "The Lusitani have prepared for you snakes in breastplates! I always knew you were vermin.",
+		"attacked": "We prepared for this, snakes in breastplates!",
 		"defeated": "You may have defeated me, but neither of us will live to see the destruction of the Lusitani.",
 		"introduction": "Welcome to the plains of Asphodel motherfucker. I am Viriathus of the Lusitani, and for your sake I hope you are not Romans.",
 
@@ -55,20 +55,20 @@
 		"declaringWar": "It's just not working out, see?",
 		"attacked": "Oh no oh shit.",
 		"defeated": "But I'm too rich!? \nImpossible... Our culture outlived by the fucking Turduli... ",
-		"introduction": "Welcome, travellers from some distant kingdom! Many such as yourself stumble upon our wonderous city in search of Atlantis or the end of the world, just as one would strike gold while digging for silver. I am Arganthonios, Silver King of Tartessos.",
+		"introduction": "Welcome, distant travelers! Many like yourself stumble upon our wonderous city searching for Atlantis or the end of the world, just as one might strike gold digging for silver. I am Arganthonios, Silver King of Tartessos.",
 
 		"neutralHello": "Hello, come far?",
 		"neutralLetsHearIt": "What's the news today brother, hmm?",
 		"neutralNo": "I'm afraid you've quite underevaluated our position...",
 		"neutralYes": "My pleasure friend~.",
 
-		"hateHello": "-Ahh, what?",
+		"hateHello": "I doubt you've anything of worth to show, but... amuse me.",
 		"hateLetsHearIt": "I doubt you've anything of worth, but... amuse me.",
 		"hateNo": "Who thought it necessary to schedule an audience with these medicants?",
 		"hateYes": "Sure, but please choose to go elsewhere next time should you continue acting like a pest.",
 		
 		"afterPeace": "Good, good, let's keep it that way; these conflicts are needlessly expensive, really.",
-		"tradeRequest": "We've got the nicest stuff, possibly Atlantean, I mean whose to say?",
+		"tradeRequest": "We've got the best stuff, possibly Atlantean, I mean whose to say?",
 		
 		"outerColor": [209, 188, 58],																			
 		"innerColor": [84,230,236],																				
