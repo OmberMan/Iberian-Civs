@@ -9,8 +9,18 @@
                 "science": 5,
                 "faith": 3,
                 "military": 7,
-                "warMongering": 5,
-
+                //"warMongering": 5,
+"aggressive": 3,
+      "declareWar": 6,
+      "commerce": 7,
+      "diplomacy": 5,
+      "loyal": 8,
+      "expansion": 6,
+"priorities": {
+    "Honor": 40,
+    "Tradition": 20,
+    "Aesthetics": 10,
+    "Commerce" 10
      },
   {
                 "name": "Lusitani",
@@ -22,9 +32,16 @@
                 "science": 3,
                 "faith": 5,
                 "military": 8,
-                "warMongering": 5,
+                //"warMongering": 5,
+"aggressive": 2,
+      "declareWar": 7,
+      "commerce": 3,
+      "diplomacy": 4,
+      "loyal": 7,
+      "expansion": 5,
 "priorities": {
-    "Liberty": 10,
+    "Liberty": 30,
+    "Tradition": 10
 }
         },
   {
@@ -37,10 +54,17 @@
                 "science": 6,
                 "faith": 2,
                 "military": 2,
-                "warMongering": 2,
+                //"warMongering": 2,
+"aggressive": 3,
+      "declareWar": 2,
+      "commerce": 10,
+      "diplomacy": 5,
+      "loyal": 4,
+      "expansion": 2,
 "priorities": {
     "Commerce": 40,
     "Exploration": 20,
+    "Aesthetics": 10
 }
         },
 ]
