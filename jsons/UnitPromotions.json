@@ -6,7 +6,7 @@
   	{
 		"name": "Terrain Experience",
 		"uniques": ["[+15]% Strength <when fighting in [Hill] tiles>", "Ignores terrain cost", "Eliminates combat penalty for attacking over a river"]
-	}
+	},
 	{
         "name": "Poisoned Tips",
         "uniques": ["[Target Unit] gains the [Poisoned!] status for [4] turn(s) <with [67]% chance> <upon damaging a [{[non-[Armor]]} {Land}] unit>"]
@@ -17,7 +17,7 @@
     },
 	{
 	"name": "Scorching",
-        "uniques": ["[Target Unit] gains the [Burning!] status for [2] turn(s) <with [20]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Fire on Deck!] status for [2] turn(s) <with [30]% chance> <upon damaging a [Water] unit>"]
+        "uniques": ["[Target Unit] gains the [Burning!] status for [2] turn(s) <with [20]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Fire on Deck!] status for [2] turn(s) <with [30]% chance> <upon damaging a [Water] unit> <when attacking>"]
 	},
 	{
         "name": "Burning!",
@@ -29,11 +29,11 @@
     },
 		{
         "name": "Shock and Awe",
-        "uniques": ["[Target Unit] gains the [Disoriented!] status for [2] turn(s) <with [20]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Disorganized!] status for [1] turn(s) <with [10]% chance> <upon damaging a [Land] unit>"]
+        "uniques": ["[Target Unit] gains the [Disoriented!] status for [2] turn(s) <with [20]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Disorganized!] status for [1] turn(s) <with [10]% chance> <upon damaging a [Land] unit> <when attacking>"]
     },
 	{
         "name": "Shock and Awe II",
-        "uniques": ["[Target Unit] gains the [Disoriented!] status for [2] turn(s) <with [30]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Disorganized!] status for [1] turn(s) <with [15]% chance> <upon damaging a [Land] unit>"]
+        "uniques": ["[Target Unit] gains the [Disoriented!] status for [2] turn(s) <with [30]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Disorganized!] status for [1] turn(s) <with [15]% chance> <upon damaging a [Land] unit> <when attacking>"]
     },
 		{
         "name": "Disoriented!",
