@@ -13,7 +13,7 @@
 		"upgradesTo": "Crossbowman",
 		"uniqueTo": "Lusitania",
 		"uniques": ["Can move after attacking", "[+33]% Strength <vs [Siege] units>", "Invisible to non-adjacent units", "Ignores Zone of Control", "May withdraw before melee ([50]%)", "[-1] Range"], 
-		"promotions": ["Ignore terrain cost", "Drill I"],
+		"promotions": ["Ignore terrain cost", "Drill I", "Scorch"],
 		"civilopediaText": [
 {
 				"extraImage": "TileSets/FantasyHex/Units/Falarica Flinger",
