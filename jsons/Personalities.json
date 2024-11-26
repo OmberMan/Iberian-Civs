@@ -1,29 +1,28 @@
 [
-{
-                "name": "Iberian",
-                "preferredVictoryType": "Neutral",
-                "food": 6,
-                "production": 7,
-                "gold": 6,
-                "culture": 7,
-                "science": 5,
-                "faith": 3,
-                "military": 7,
+	{
+		"name": "Iberian",
+        "preferredVictoryType": "Neutral",
+        "food": 6,
+        "production": 7,
+        "gold": 6,
+        "culture": 7,
+        "science": 5,
+        "faith": 3,
+        "military": 7,
                 //"warMongering": 5,
-"aggressive": 3,
-      "declareWar": 6,
-      "commerce": 7,
-      "diplomacy": 5,
-      "loyal": 8,
-      "expansion": 6,
-"priorities": {
-    "Honor": 40,
-    "Tradition": 20,
-    "Aesthetics": 10,
-    "Commerce": 10
-     },
-},
-  {
+		"aggressive": 3,
+		"declareWar": 6,
+		"commerce": 7,
+		"diplomacy": 5,
+		"loyal": 8,
+		"expansion": 6,
+		"priorities": {
+			"Honor": 40,
+			"Tradition": 20,
+			"Aesthetics": 10,
+			"Commerce": 10
+	},
+	{
                 "name": "Lusitani",
                 "preferredVictoryType": "Neutral",
                 "food": 6,
